@@ -1,3 +1,5 @@
+# Validor de estatura
+
 Algoritmo Validador_Estatura
     Definir i, pueden_subir, no_pueden_subir Como Entero
 	Definir estatura Como Entero
